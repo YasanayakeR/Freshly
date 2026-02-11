@@ -1,4 +1,4 @@
-# FReshly – Laundry Management System
+# Freshly – Laundry Management System
 
 **FReshly** is a complete Laundry Management System designed to streamline laundry operations for customers, laundries, and delivery personnel. It provides an intuitive interface for placing and managing laundry orders, tracking order status in real-time, and handling laundry items and services efficiently.
 
